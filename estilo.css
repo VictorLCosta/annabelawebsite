@@ -1,0 +1,29 @@
+.capa
+{
+    position: left top;
+    background-attachment: fixed;
+}
+
+body
+{
+    background-image: url("imagens/fundo.png");
+}
+
+.texto
+{
+    background: white;
+    width: 675pt;
+}
+
+.breadcrumb
+{
+    background: rgb(153, 144, 133) ;
+    width: 675pt;
+    height: 2em;
+    font: bold ;
+}
+
+.direitos
+{
+    position: center center;
+}
