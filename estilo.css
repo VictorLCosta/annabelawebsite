@@ -34,4 +34,17 @@ a
 .direitos
 {
     text-align: center;
+    font-weight: bold;
+}
+
+h1
+{
+    color: #828271;
+    font-size: 1.2em;
+    padding: 10px;
+}
+
+.fotos
+{
+    border: 10px solid #c3c3ae;
 }
